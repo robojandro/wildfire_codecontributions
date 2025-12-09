@@ -1,7 +1,6 @@
 # Marco Palma's GitHub code contribution graphs while at WildFire
 
-It's a shame that I can't share details about what I actually implemented in 3 years and 9 months at WildFire
-together, but at least I had the forethought to take screen captures of my GitHub contributions graphs.
+It's a shame that I can't go into much detail about what I actually implemented in the 3 years and 9 months that I spent at WildFire, but at least I had the forethought to take screen captures of my GitHub contributions graphs.
 
 You can be sure that these weren't just a bunch of documentation and comments slapped into existing files.
 
