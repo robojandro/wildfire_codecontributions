@@ -17,7 +17,7 @@ According to Google, [GitHub](https://docs.github.com/en/account-and-profile/ref
     **Pull Requests:** Opening a pull request or having a pull request you opened merged.
     **Pull Request Reviews:** Submitting a review on a pull request.
 
-So PR reviews would seem to be a part of that and I do think one of my more important contributions at WF was making sure the code from the team kept flowing while at the same time not bring down quality. 
+So PR reviews would seem to be a part of that and I do think one of my more important contributions at WF was making sure the code from the team kept flowing while at the same time not bringing down quality. 
 
 As I got busy in 2025 I neglected to keep taking screen shots of my contribution graph, so the last this one at the top only covers January and February:
 
